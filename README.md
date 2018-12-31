@@ -47,7 +47,7 @@ show material progress
 
 ![image](https://github.com/pedant/sweet-alert-dialog/raw/master/play_progress.gif)
 
-You can customize progress bar dynamically with materialish-progress methods via **SweetAlertDialog.getProgressHelper()**:
+You can customize progress bar dynamically with materialish-progress methods via **SweetAlertDialog.getProgressHelper():
 - resetCount()
 - isSpinning()
 - spin()
